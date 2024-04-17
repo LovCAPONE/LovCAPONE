@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LovCAPONE
-- 👀 I’m interested in C#, C++ and C
+- 👀 I’m interested in tools programming in C#, C++ and C
 - 📫 You can reach me at lweche159@gmail.com or on Twitter @lovcapone
 
 <!---
