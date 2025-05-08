@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LovCAPONE
-- 👀 I’m interested in tools programming in C#, C++ and C
+- 👀 I am interested in bug fixing in code bases of any size and in any programming language.
 - 📫 You can reach me at lweche159@gmail.com or on X @lovcapone
 
 <!---
